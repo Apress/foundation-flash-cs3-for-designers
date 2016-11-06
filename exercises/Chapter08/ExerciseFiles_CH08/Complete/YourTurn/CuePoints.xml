@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<FLVCoreCuePoints>
+
+	<CuePoint>
+        <Time>9500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.0</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">Up in the sky, look!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>10.9</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+	 <CuePoint>
+        <Time>11300</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.1</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">It's a bird ... it's a plane ... it's Superman!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>14.5</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>55700</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.2</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">Faster than a speeding bullet,</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>57</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>58000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.3</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">more powerful than a locomotive,</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>59.4</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>60500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.4</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">able to leap tall buildings in a single bound,</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>62.5</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>63200</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.5</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">this amazing stranger from the planet Krypton,</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>65</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>66000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.6</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">the man of steel ...</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>67</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>68000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.7</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<p align="center"><font face="Arial, Helvetica, _sans" size="20" color="#FF0000">Superman!</font></p>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>70</Value>
+            </Parameter>
+            <Parameter>
+                <Name>backgroundColor</Name>
+                <Value>0x01016D</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>71000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.8</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">Empowered with x-ray vision,</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>73</Value>
+            </Parameter>
+            <Parameter>
+                <Name>backgroundColor</Name>
+                <Value>0x000000</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>73600</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.9</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">possessing remarkable physical strength,</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>75</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+	<CuePoint>
+        <Time>76000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.10</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">Superman fights a never-ending battle for truth and justice</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>79</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>80000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.11</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12">disguised as a mild mannered newspaper reporter, Clark Kent.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>84</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>213500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.12</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Clark:</i> Lois, what are you doing here?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>215.8</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>216200</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.13</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois:</i> Oh, just getting a woman's angle on this story.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>219</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>221500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.14</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Policeman:</i> The mechanical monster! Look out!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>223</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>257000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.15</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois:</i> Come on, you fool! Do you want to get trampled?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>259.5</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>269500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.16</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Clark:</i> Now, you wait here. I'll phone this in.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>271.5</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>288500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.17</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Clark:</i> Yes, I'll give you the details later, Chief.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>291</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>293000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.18</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Clark:</i> All right, Lois ... Lois?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>296</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>302000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.19</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Clark:</i> This is a job for Superman!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>303.6</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>342500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.20</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Alarm rings.</i></font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>347</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>351000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.21</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois screams.</i></font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>353</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>358500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.22</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois screams.</i></font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>360</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>378500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.23</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois:</i> What a story this is going to make!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>380.5</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>385000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.24</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mad Scientist:</i> The jewels! What have you done with the jewels?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>388</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>388000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.25</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois:</i> You'll read about it in tomorrow's paper.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>391</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>391800</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.26</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mad Scientist:</i> Are you going to tell me what happened to those jewels?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>395</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>443000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.27</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mad Scientist:</i> So, you won't tell me.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>445</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>448500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.28</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mad Scientist:</i> You'll soon change your mind.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>451.8</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>469500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.29</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mad Scientist:</i> Superman!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>471.5</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>550500</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.30</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mad Scientist:</i> Take one more step and she's doomed!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>553.2</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>599300</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.31</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Clark:</i> That's a wonderful story, Lois.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>600.5</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+	<CuePoint>
+        <Time>601000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.32</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Lois:</i> Thanks, Clark, but I owe it all to Superman.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>604.5</Value>
+            </Parameter>
+        </Parameters>			
+    </CuePoint>
+
+</FLVCoreCuePoints>

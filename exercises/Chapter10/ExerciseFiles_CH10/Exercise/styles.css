@@ -1,0 +1,23 @@
+li {
+	font-style: italic; color: #A2A2A2; leading: -2;
+}
+
+p {
+	text-align: justify; leading: 6;
+}
+
+ul {
+	leading: 6;
+}
+
+strong {
+	font-family: Impact; font-size: 14; color: #339966;
+}
+
+a {
+	font-family: Courier; font-weight: bold;
+}
+
+a:hover {
+	color: #FF00FF;
+}

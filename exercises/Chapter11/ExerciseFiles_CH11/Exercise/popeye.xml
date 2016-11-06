@@ -1,0 +1,38 @@
+<cartoons>
+	<film title="I Yam What I Yam" releaseDate="September 29, 1933" runningTime="6">
+		<cast>
+			<character>Popeye</character>
+			<character>Olive Oyl</character>
+			<character>Wimpy</character>
+			<character>Big Chief</character>
+		</cast>
+	</film>
+	<film title="Strong to the Finich" releaseDate="June 29, 1934" runningTime="7">
+		<cast>
+			<character>Popeye</character>
+			<character>Olive Oyl</character>
+			<character>Orphan Children</character>
+		</cast>
+	</film>
+	<film title="Beware Of Barnacle Bill" releaseDate="25 January 1935" runningTime="6">
+		<cast>
+			<character>Popeye</character>
+			<character>Olive Oyl</character>
+			<character>Bluto</character>
+		</cast>
+	</film>
+	<film title="Vim, Vigor, And Vitaliky" releaseDate="January 03, 1936" runningTime="6">
+		<cast>
+			<character>Popeye</character>
+			<character>Olive Oyl</character>
+			<character>Bluto</character>
+		</cast>
+	</film>
+	<film title="Little Swee' Pea" releaseDate="September 25, 1936" runningTime="7">
+		<cast>
+			<character>Popeye</character>
+			<character>Olive Oyl</character>
+			<character>Swee' Pea</character>
+		</cast>
+	</film>
+</cartoons>

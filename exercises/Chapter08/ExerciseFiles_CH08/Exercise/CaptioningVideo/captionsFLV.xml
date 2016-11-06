@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tt xml:lang="en" xmlns="http://www.w3.org/2006/04/ttaf1"  xmlns:tts="http://www.w3.org/2006/04/ttaf1#styling">
+      <head>
+          <styling>
+              <style id="1" tts:textAlign="right"/>
+              <style id="2" tts:color="transparent"/>
+              <style id="3" style="2" tts:backgroundColor="white"/>
+              <style id="4" style="2 3" tts:fontSize="20"/>
+          </styling>
+      </head>
+      <body>
+           <div xml:lang="en">
+              <p begin="00:00:00.25" dur="00:00:03.25">Dreamweaver users now have access to Flash Video. Didn't have it before.</p>
+              <p begin="00:00:04.20"dur="00:00:03.07">And if you were to talk to a Dreamweaver user about three or four years ago</p>
+              <p begin="00:00:08.03" dur="00:00:01.04" >and ask, "You want to put video on a web page?"</p>
+              <p begin="00:00:09.11" dur="00:00:04.00">They would look at you and go "Yeah.Dude.Yeah.Right.Uh Huh. Next."</p>
+          </div>    
+      </body>
+  </tt>
+
